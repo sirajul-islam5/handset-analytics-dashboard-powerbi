@@ -103,16 +103,6 @@ This dashboard includes **3 interactive slicers**:
 
 ---
 
-## 🚀 Future Plans
-
-- Fix the Payment Method slicer relationship issue
-- Add drill-through pages for individual brand and city analysis
-- Include month-over-month sales growth metrics
-- Add a dedicated customer satisfaction analysis page
-- Recreate with a larger, real-world dataset
-
----
-
 ## 👤 Author
 
 **Md. Sirajul Islam**
