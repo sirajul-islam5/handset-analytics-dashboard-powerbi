@@ -1,10 +1,10 @@
-# 📱 Handset Analytics Dashboard — Power BI Project
+# Handset Analytics Dashboard — Power BI Project
 
 An interactive business intelligence dashboard built in Microsoft Power BI, designed to analyze mobile handset sales performance across models, brands, payment methods, cities, and customer satisfaction. This is a guided project completed as part of my data analytics learning journey.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This dashboard provides a comprehensive view of handset sales data across a full 12-month period. It is designed to help answer key business questions around which products sell best, how customers prefer to pay, which cities drive the most sales, and how satisfied customers are overall.
 
@@ -12,7 +12,7 @@ The dataset covers 5 major mobile brands — Apple, OnePlus, Samsung, Vivo, and 
 
 ---
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
 
 | Metric | Value |
 |--------|-------|
@@ -23,7 +23,7 @@ The dataset covers 5 major mobile brands — Apple, OnePlus, Samsung, Vivo, and 
 
 ---
 
-## 🔍 Dashboard Sections
+## Dashboard Sections
 
 **1. Total Quantity by Month**
 - Line chart tracking units sold across all 12 months
@@ -58,19 +58,19 @@ The dataset covers 5 major mobile brands — Apple, OnePlus, Samsung, Vivo, and 
 
 ---
 
-## 🎛️ Slicers / Filters
+## Slicers / Filters
 
 This dashboard includes **3 interactive slicers**:
 
 | Slicer | Status |
 |--------|--------| 
-| Mobile Model | ✅ Working |
-| Payment Method | ✅ Working | 
-| Month (January – December) | ⚠️ Not Working |
+| Mobile Model | Working |
+| Payment Method | Working | 
+| Month (January – December) | Not Working |
 
 ---
 
-## 🛠️ Tools & Features Used
+## Tools & Features Used
 
 - Microsoft Power BI Desktop
 - Data Modeling & Relationships
@@ -86,7 +86,7 @@ This dashboard includes **3 interactive slicers**:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - How to connect and model data tables in Power BI
 - Building a multi-section dashboard that tells a complete business story
@@ -97,17 +97,15 @@ This dashboard includes **3 interactive slicers**:
 
 ---
 
-## ⚠️ Known Issues
+## Known Issues
 
 - The **Month slicer** (January – December) is not currently filtering visuals correctly. When a month is selected, the visuals do not respond as expected. This is likely due to a missing or incorrect relationship between the Date/Month field and the data model in Power BI. 
 
 ---
 
-## 👤 Author
+## Author
 
 **Md. Sirajul Islam**
-
-Data Aspirant | Power BI Enthusiast 
 
 ---
 
